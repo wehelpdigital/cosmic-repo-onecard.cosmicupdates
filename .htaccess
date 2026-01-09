@@ -1,22 +1,20 @@
-
-RewriteOptions inherit
-
 RewriteEngine On
+
+# HTTPS redirect
 RewriteCond %{HTTPS} off
-RewriteCond %{REQUEST_URI} !^/\.well-known/acme-challenge/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/cpanel-dcv/[0-9a-zA-Z_-]+$
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/(?:\ Ballot169)?
-RewriteCond %{REQUEST_URI} !^/\.well-known/pki-validation/[A-F0-9]{32}\.txt(?:\ Comodo\ DCV)?$
+RewriteCond %{REQUEST_URI} !^/\.well-known/
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Ensure index.php loads first
 DirectoryIndex index.php index.html
 
-# Disable SSI processing for security
-Options -Includes
+# Use custom error page to avoid SSI errors
+ErrorDocument 500 "Internal Server Error"
+ErrorDocument 404 "Page Not Found"
+ErrorDocument 403 "Forbidden"
 
 # php -- BEGIN cPanel-generated handler, do not edit
-# Set the “ea-php83” package as the default “PHP” programming language.
+# Set the "ea-php83" package as the default "PHP" programming language.
 <IfModule mime_module>
   AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
 </IfModule>
