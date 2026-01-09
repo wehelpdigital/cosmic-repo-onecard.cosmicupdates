@@ -1,9 +1,9 @@
 RewriteEngine On
 
-# HTTPS redirect
-RewriteCond %{HTTPS} off
-RewriteCond %{REQUEST_URI} !^/\.well-known/
-RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+# HTTPS redirect - DISABLED until SSL is renewed
+# RewriteCond %{HTTPS} off
+# RewriteCond %{REQUEST_URI} !^/\.well-known/
+# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
 
 # Ensure index.php loads first
 DirectoryIndex index.php index.html
