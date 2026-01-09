@@ -1,0 +1,9 @@
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2         5548 Sep  3  2019 Cache_apc.php
+-rw-r--r--    1 tarotre2   tarotre2         4337 Sep  3  2019 Cache_dummy.php
+-rw-r--r--    1 tarotre2   tarotre2         6823 Sep  3  2019 Cache_file.php
+-rw-r--r--    1 tarotre2   tarotre2         7435 Sep  3  2019 Cache_memcached.php
+-rw-r--r--    1 tarotre2   tarotre2         7706 Sep  3  2019 Cache_redis.php
+-rw-r--r--    1 tarotre2   tarotre2         5825 Sep  3  2019 Cache_wincache.php
+-rw-r--r--    1 tarotre2   tarotre2          131 Sep  3  2019 index.html

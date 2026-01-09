@@ -1,0 +1,493 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:400,900|Montez);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap);
+
+.sparkley {
+  background: #3e5871;
+  color: white;
+  border: none;
+  padding: 16px 36px;
+  font-weight: normal;
+  border-radius: 3px;
+  transition: all 0.25s ease;
+  box-shadow: 0 38px 32px -23px black;
+  margin: 0 1em 1em;
+}
+
+.sparkley:hover {
+  background: #2c3e50;
+  color: rgba(255, 255, 255, 0.2);
+}
+
+html {
+  font-family: Lato;
+  font-weight: 200;
+  font-size: 1em;
+  text-align: center;
+  color: #ddd;
+  min-height: 100%;
+  background: url('../img/newBG.jpeg');
+}
+
+html body {
+  padding: 50px;
+}
+
+h1 span,
+h2 span,
+h3 span {
+  font-family: 'Libre Baskerville';
+  font-size: 1.9em;
+  font-weight: 300;
+  margin: 0 0.3em;
+  color: #ff0080;
+}
+
+h1 {
+  font-size: 1.9em;
+  width: 900px;
+  margin: 0 auto 1em;
+  text-shadow: 0 2px 1px black;
+}
+
+.img {
+  margin: 40px auto 0;
+  width: 500px;
+  display: block;
+}
+
+.img img {
+  width: 100%;
+  border-radius: 5px;
+}
+
+p {
+  padding: 5px 10px;
+  display: inline-block;
+  margin: 10px auto;
+}
+
+.small-continue {
+
+  font-family: 'Open Sans', sans-serif;
+  color: #000;
+  background-color: #b5ab81;
+  border: 0px;
+  padding: 10px 16px;
+  font-size: 16px;
+  line-height: 1.3333333;
+  border-radius: 6px;
+  -webkit-transition: color 0.5s linear;
+  -moz-transition: color 0.5s linear;
+  -o-transition: color 0.5s linear;
+  transition: color 0.5s linear;
+  text-decoration: none !important;
+  margin-top: 15px;
+}
+
+.remodal {
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.remodal p {
+  padding: 0px;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  font-weight: normal;
+  font-size: 16px;
+  display: block;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.small-continue:hover,
+.continue:hover {
+  background-color: #a89b6b;
+  color: #000;
+  text-decoration: none !important;
+}
+
+.button-container {
+  margin-top: 10px;
+}
+
+.birthday-selection {
+  text-align: left;
+  margin-bottom: 10px;
+  margin-top: 0px;
+  font-size: 30px;
+}
+
+.left {
+  text-align: left !important;
+}
+
+.big-input {
+  font-size: 30px;
+  outline: none;
+}
+
+.remodal h2 {
+    font-family: 'Libre Baskerville';
+  margin-top: 0px;
+  font-size: 30px;
+  line-height: 50px;
+  margin-bottom: 0px;
+  color: #000;
+}
+
+.remodal h3 {
+  font-size: 25px;
+  line-height: 30px;
+  margin-bottom: 0px;
+  margin-top: 10px;
+}
+
+.remodal input {
+  width: 100%;
+  border: 1px solid #333;
+  border-radius: 0px;
+  color: #000;
+  font-size: 20px;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  box-shadow: none !important;
+}
+
+
+.content-top {
+  width: 100%;
+  max-width: 700px;
+  text-align: center;
+  margin: 0px auto;
+  background-color: #fff;
+  padding: 10px 10px;
+  border-radius: 10px;
+  font-size: 25px;
+  font-family: 'Libre Baskerville';
+}
+
+.content-top h1 {
+  width: 100%;
+  font-size: 36px;
+  margin: 0 auto 1em;
+  text-shadow: none !important;
+  margin-bottom: 30px;
+  line-height: 40px;
+}
+
+.content-top h2 {
+  margin-top: 0px;
+  padding-top: 0px;
+  line-height: 30px;
+}
+
+.choose-outer {
+  padding-top: 70px !important;
+}
+
+.choose-wrap .guide {
+  margin-bottom: 0px !important;
+  padding: 0px !important;
+  margin-top: 0px !important;
+  background: none !important;
+}
+
+.choose-wrap .choose-cards {
+  margin-top: 0px !important;
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+.choose-wrap .guide {
+  margin-top: 0px;
+}
+
+.getreading {
+  background: #f4d30c;
+  padding: 20px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
+
+.choose-wrap {
+  margin-bottom: 10px !important;
+}
+
+.form-group {
+  display: inline-block;
+}
+
+.title {
+  font-size: 30px;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  margin: 0px;
+  padding: 0px;
+}
+
+.fname-inner {
+  width: 100%;
+}
+
+#youremail,
+#firstNameT {
+  width: 100%;
+  border: 0px;
+  border-radius: 0px;
+  color: #000;
+  font-size: 18px;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  padding: 10px;
+  border: 1px solid #bfbfbf;
+}
+
+.container {
+      width: 100%;
+}
+
+#err {
+  visibility: hidden;
+}
+
+.choose-wrap .text-begin {
+  background: none !important;
+  color: #fff;
+  box-shadow: none !important;
+}
+
+.select-full {
+  width: 100%;
+  margin-bottom: 0px;
+}
+
+.nopadding {
+  padding: 0px !important;
+}
+
+.send {
+  width: 100%;
+}
+
+.bootbox .modal-content {
+  background: #fff !important;
+  text-shadow: none !important;
+  border-radius: 0px !important;
+  border: 0px !important;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+  font-weight: normal;
+  font-size: 16px;
+}
+
+.bootbox .modal-footer {
+  display: none;
+}
+
+.bootbox-close-button {
+
+  color: #000 !important;
+  opacity: 1 !important;
+  font-size: 30px;
+
+}
+
+.bootbox-close-button::after {
+
+  content: ' close';
+
+  font-size: 30px;
+
+  color: #111;
+
+  margin-top: -15px;
+
+  display: inline-block;
+
+  margin-top: -10px;
+
+  margin-left: 5px;
+
+}
+
+.bootbox-body {
+
+  font-size: 30px;
+
+  margin-top: 25px;
+
+  font-weight: bold;
+
+  color: #b71717;
+
+}
+
+
+.btn-purple {
+  width: 100%;
+  background: #B79310;
+  color: #fff;
+  font-size: 18px;
+  transition: color 0.2s linear;
+  -webkit-transition: background-color 0.2s linear;
+  -ms-transition: background-color 0.2s linear;
+  transition: background-color 0.2s linear;
+}
+
+.btn-purple:hover {
+  background: #444A70;
+  color: #fff;
+
+}
+
+.close {
+
+  left: 15px !important;
+  top: 5px !important;
+}
+
+h1 {
+  font-family: 'Libre Baskerville';
+  color: #fff;
+  font-size: 40px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  line-height: 60px;
+  font-weight: bold;
+}
+
+h2 {
+  color: #fff;
+}
+
+
+.btn-get-reading,
+.btn-shuffle {
+  background: #B79310;
+  border: 0px;
+  color: #fff;
+  font-weight: bold;
+  text-shadow: none;
+  font-size: 16px;
+  padding: 10px;
+  transition: background-color 0.2s linear;
+}
+
+.btn-get-reading:hover,
+.btn-shuffle:hover {
+
+  color: #fff;
+  background: #444A70;
+}
+
+html {
+  overflow: hidden;
+}
+
+.popup-one-title {
+  color: #000;
+  font-family: "Open Sans", Helvetica, sans-serif !important;
+}
+
+@media only screen and (min-width: 1280px) {
+  .container {
+      width: 1200px!important;
+}
+
+
+}
+
+@media only screen and (max-width: 920px) {
+  .container {
+    width: 100%;
+    position: relative;
+  }
+
+  .get-my-reading-wrap {
+    width: 100% !important;
+    margin-left: 0px !important;
+  }
+
+  html body {
+    padding: 10px !important;
+  }
+
+  html {
+    overflow: auto;
+  }
+h1 {
+    width: 100%;
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  h2 {
+    line-height: 30px;
+    font-size: 20px;
+  }
+
+}
+
+@media only screen and (max-width: 780px) {
+  h1 {
+    width: 100%;
+    font-size: 40px;
+    line-height: 50px;
+  }
+
+  h2 {
+    line-height: 30px;
+    font-size: 20px;
+  }
+}
+
+@media only screen and (max-width: 599px) {
+  .container {
+    padding: 0px;
+    padding-right: 0px;
+  }
+
+  .title {
+    font-size: 25px;
+    line-height: 35px;
+  }
+
+  .get-my-reading-wrap {}
+
+  .choose-wrap .instructions{
+    top:15px;
+  }
+
+  .choose-wrap .card {
+    background: url(../img/sun-cardback-white-02.png) no-repeat;
+    width: 174px;
+    height: 239px;
+    margin-right: -174px;
+  }
+
+  .choose-wrap .card-back-1 .card.selected {
+    background-position: -175px 0;
+  }
+
+  .getreading {
+    margin-top: -20px;
+  }
+
+  .form-group {
+    display: block;
+    padding: 0px;
+  }
+
+  .choose-wrap .instructions {
+    left: 60%;
+  }
+
+  .choose-wrap .text-begin {
+    padding: 0px;
+  }
+
+}
+
+@media only screen and (max-width: 427px) {
+  .form-group {
+    display: block;
+    padding: 0px !important;
+  }
+}

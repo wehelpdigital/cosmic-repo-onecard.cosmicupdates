@@ -1,0 +1,279 @@
+.mobile-version #Header {
+    max-width: 984px;
+    width: 100%;
+}
+.mobile-version #Content {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    max-width: 984px;
+    width: 100%;
+}
+.mobile-version #Content.width-880 {
+    max-width: 880px;
+}
+.mobile-version .image-header img {
+    width: 100%;
+    max-width: 684px;
+    height: auto;
+}
+.mobile-version .image-small-right,
+.mobile-version .image-right {
+    float:right;
+    margin-left:20px;
+}
+.mobile-version .image-small-left,
+.mobile-version .image-left {
+    float:left;
+    margin-right:20px;
+}
+.mobile-version .image-right .imagefloat,
+.mobile-version .image-small-right .imagefloat {
+    float: none;
+    margin: 0;
+}
+.mobile-version .image-right img,
+.mobile-version .image-small-right img {
+    float: none!important;
+}
+.mobile-version h2.header img {
+    width: 100%;
+    max-width: 769px;
+    height: auto;
+}
+.mobile-version .image-stop img {
+    width: 100%;
+    height: auto;
+    max-width: 680px;
+}
+.mobile-version .mmss {
+    width: 100%;
+    height: auto;
+    max-width: 564px;
+}
+.mobile-version .guaranteebox {
+    width: 100%;
+    height: auto;
+    max-width: 548px;
+}
+.mobile-version .guaranteeSticker {
+    width: 100%;
+    height: auto;
+    max-width: 484px;
+}
+.mobile-version  .border-box {
+    max-width:580px;
+    width: 97%;
+    margin:0 auto;
+    border: thick #C00 dashed;
+    background:#f9f9f9;
+    margin-top:30px;
+    margin-bottom:30px;
+}
+.mobile-version .copyright {
+    float:right;
+    color:#FFF;
+    font-size:13px;
+}
+.mobile-version .table td{
+    padding: 10px;
+}
+.mobile-version .iframe {
+    max-width: 720px;
+    margin: auto;
+    width: 100%;
+}
+@media all and (max-width:983px){
+    .mobile-version #Footer,
+    .mobile-version-2 #Footer    {
+        max-width: 984px;
+        width: 100%;
+        text-align: center;
+        padding-top: 15px;
+    }
+    .mobile-version .navlinks {
+        float: none;
+        width: 100%;
+    }
+    .mobile-version .navlinks li {
+        float: none;
+        display: inline-block;
+    }
+    .mobile-version .copyright {
+        float: none;
+        padding-top: 30px;
+    }
+    .mobile-version .border-menu {
+        height:75px!important;
+    }
+    .mobile-version .wrap-boxes {
+        width: 100%!important;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        max-width: 730px;
+    }
+    .mobile-version .padding-oto {
+        padding: 80px!important;
+    }
+}
+
+@media all and (max-width:900px){
+    .mobile-version .bullet {
+        width: 100%!important;
+    }
+    .mobile-version  #copy:nth-of-type(1) ul li::before,
+    .mobile-version  #copy:nth-of-type(1) ul li::after    {
+        top: 12px;
+    }
+    .mobile-version .wrap-boxes {
+        padding: 20px!important;
+    }
+
+}
+@media all and (max-width:800px){
+    .mobile-version .iframe iframe {
+        height: 512px;
+    }
+    .mobile-version .wrap-boxes {
+        padding: 0px!important;
+    }
+}
+@media all and (max-width:767px){
+    .mobile-version .copy {
+        padding: 0!important;
+    }
+    .mobile-version .otoboxes2 {
+        width: 100%;
+        padding: 40px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+    .mobile-version .iframe iframe {
+        height: 439px;
+    }
+    .mobile-version .padding-oto {
+        padding: 40px!important;
+    }
+}
+
+@media all and (max-width:615px){
+    .mobile-version .iframe iframe {
+        height: 416px;
+    }
+}
+@media all and (max-width:615px){
+    .mobile-version .navlinks li {
+        padding: 0 5px;
+    }
+}
+@media all and (max-width:600px){
+
+    .mobile-version .image-right,
+    .mobile-version .image-left{
+        float: none;
+        margin: 0 0 20px;
+        text-align: center;
+    }
+    .mobile-version  .comments-table,
+    .mobile-version .comments-div  {
+        width: 100%;
+    }
+    .mobile-version .image-600 {
+        width: 100%;
+        height: auto;
+    }
+    .mobile-version .otoboxes2 {
+        padding: 20px;
+    }
+}
+@media all and (max-width:530px){
+    .mobile-version #Footer {
+        padding-top: 2px;
+    }
+    .mobile-version .navlinks li {
+        margin: 4px 0;
+    }
+    .mobile-version .copyright {
+        padding-top: 15px;
+    }
+}
+@media all and (max-width:480px){
+    .mobile-version .image-480 {
+        width: 100%;
+        height: auto;
+    }
+    .mobile-version .copyright {
+        float: none!important;
+    }
+    .mobile-version .image-small-right,
+    .mobile-version .image-small-left{
+        float: none;
+        margin: 0 0 20px;
+        text-align: center;
+    }
+    .mobile-version .iframe iframe {
+        height: 300px;
+    }
+    input.add-to-order {
+        width: 100%;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+    }
+}
+@media all and (max-width:450px){
+    .mobile-version .image-right img,
+    .mobile-version .image-left img {
+        width: 100%;
+        height: auto;
+    }
+    .mobile-version .padding {
+        padding: 35px 10px 0!important;
+    }
+    .mobile-version .padding-box {
+        padding: 20px!important;
+    }
+    .mobile-version .image-footer img,
+    .mobile-version-2 .image-footer img {
+        width: 90%;
+        height: auto;
+    }
+    .mobile-version #Header img {
+        width: 90%;
+        height: auto;
+    }
+}
+@media all and (max-width:400px){
+    .mobile-version .image-400 {
+        width: 100%;
+        height: auto;
+    }
+    .mobile-version .padding-oto {
+        padding: 20px!important;
+    }
+}
+@media all and (max-width:360px){
+    .mobile-version .img-button {
+        width: 100%;
+        height: auto;
+    }
+    .mobile-version .table td {
+        padding: 5px;
+    }
+    .mobile-version #HeaderWrap {
+        height: 78px;
+    }
+    .mobile-version #Header {
+        padding-top: 25px;
+    }
+    .mobile-version .iframe iframe {
+        height: 236px;
+    }
+}
+@media all and (max-width:320px){
+    .mobile-version .iframe iframe {
+        height: 214px;
+    }
+    /**/
+}

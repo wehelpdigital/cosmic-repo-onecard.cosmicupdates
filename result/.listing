@@ -1,0 +1,15 @@
+drwxr-xr-x    6 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-x---   12 tarotre2   12               4096 Nov  4  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2          302 Sep  3  2019 .editorconfig
+-rw-r--r--    1 tarotre2   tarotre2          504 Sep  3  2019 .gitignore
+-rw-r--r--    1 tarotre2   tarotre2          182 Sep  3  2019 .htaccess
+drwxr-xr-x   14 tarotre2   tarotre2         4096 Sep  3  2019 application
+-rw-r--r--    1 tarotre2   tarotre2          593 Sep  3  2019 composer.json
+-rw-r--r--    1 tarotre2   tarotre2         6504 Sep  3  2019 contributing.md
+-rw-r--r--    1 tarotre2   tarotre2        30183 Sep  3  2019 error_log
+-rw-r--r--    1 tarotre2   tarotre2        10253 Sep  3  2019 index.php
+-rw-r--r--    1 tarotre2   tarotre2         1114 Sep  3  2019 license.txt
+drwxr-xr-x    7 tarotre2   tarotre2         4096 Sep  5  2019 public
+-rw-r--r--    1 tarotre2   tarotre2         2353 Sep  3  2019 readme.rst
+drwxr-xr-x    8 tarotre2   tarotre2         4096 Sep  3  2019 system
+drwxr-xr-x   14 tarotre2   tarotre2         4096 Sep  3  2019 user_guide

@@ -1,0 +1,7 @@
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x   14 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2          131 Sep  3  2019 index.html
+-rw-r--r--    1 tarotre2   tarotre2        13249 Sep  3  2019 mysqli_driver.php
+-rw-r--r--    1 tarotre2   tarotre2         6180 Sep  3  2019 mysqli_forge.php
+-rw-r--r--    1 tarotre2   tarotre2         4758 Sep  3  2019 mysqli_result.php
+-rw-r--r--    1 tarotre2   tarotre2         5575 Sep  3  2019 mysqli_utility.php

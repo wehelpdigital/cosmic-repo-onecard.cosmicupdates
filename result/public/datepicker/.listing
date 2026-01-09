@@ -1,0 +1,10 @@
+drwxr-xr-x    6 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x    7 tarotre2   tarotre2         4096 Sep  5  2019 ..
+drwxr-xr-x    4 tarotre2   tarotre2         4096 Sep  3  2019 compressed
+-rw-r--r--    1 tarotre2   tarotre2         4136 Sep  3  2019 legacy.js
+-rw-r--r--    1 tarotre2   tarotre2        48160 Sep  3  2019 picker.date.js
+-rw-r--r--    1 tarotre2   tarotre2        36941 Sep  3  2019 picker.js
+-rw-r--r--    1 tarotre2   tarotre2        31901 Sep  3  2019 picker.time.js
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 themes
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 themes-source
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 translations

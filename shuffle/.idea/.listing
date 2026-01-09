@@ -1,0 +1,10 @@
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2           10 Sep  3  2019 .name
+-rw-r--r--    1 tarotre2   tarotre2          166 Sep  3  2019 encodings.xml
+-rw-r--r--    1 tarotre2   tarotre2          292 Sep  3  2019 freetarrot.iml
+-rw-r--r--    1 tarotre2   tarotre2          127 Sep  3  2019 misc.xml
+-rw-r--r--    1 tarotre2   tarotre2          274 Sep  3  2019 modules.xml
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 scopes
+-rw-r--r--    1 tarotre2   tarotre2          166 Sep  3  2019 vcs.xml
+-rw-r--r--    1 tarotre2   tarotre2        16803 Sep  3  2019 workspace.xml

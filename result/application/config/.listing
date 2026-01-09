@@ -1,0 +1,17 @@
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x   14 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2         4058 Sep  3  2019 autoload.php
+-rw-r--r--    1 tarotre2   tarotre2        18471 Sep  3  2019 config.php
+-rw-r--r--    1 tarotre2   tarotre2         4322 Sep  3  2019 constants.php
+-rw-r--r--    1 tarotre2   tarotre2         4552 Sep  3  2019 database.php
+-rw-r--r--    1 tarotre2   tarotre2         2441 Sep  3  2019 doctypes.php
+-rw-r--r--    1 tarotre2   tarotre2         2993 Sep  3  2019 foreign_chars.php
+-rw-r--r--    1 tarotre2   tarotre2          417 Sep  3  2019 hooks.php
+-rw-r--r--    1 tarotre2   tarotre2          131 Sep  3  2019 index.html
+-rw-r--r--    1 tarotre2   tarotre2          498 Sep  3  2019 memcached.php
+-rw-r--r--    1 tarotre2   tarotre2         3032 Sep  3  2019 migration.php
+-rw-r--r--    1 tarotre2   tarotre2        10057 Sep  3  2019 mimes.php
+-rw-r--r--    1 tarotre2   tarotre2          477 Sep  3  2019 profiler.php
+-rw-r--r--    1 tarotre2   tarotre2         1966 Sep  3  2019 routes.php
+-rw-r--r--    1 tarotre2   tarotre2         3181 Sep  3  2019 smileys.php
+-rw-r--r--    1 tarotre2   tarotre2         6132 Sep  3  2019 user_agents.php

@@ -1,0 +1,13 @@
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x    6 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2         2849 Sep  3  2019 _variables.less
+-rw-r--r--    1 tarotre2   tarotre2         6677 Sep  3  2019 base.date.less
+-rw-r--r--    1 tarotre2   tarotre2         1068 Sep  3  2019 base.less
+-rw-r--r--    1 tarotre2   tarotre2         2451 Sep  3  2019 base.time.less
+-rw-r--r--    1 tarotre2   tarotre2          215 Sep  3  2019 classic.date.less
+-rw-r--r--    1 tarotre2   tarotre2         2319 Sep  3  2019 classic.less
+-rw-r--r--    1 tarotre2   tarotre2         1030 Sep  3  2019 classic.time.less
+-rw-r--r--    1 tarotre2   tarotre2          215 Sep  3  2019 default.date.less
+-rw-r--r--    1 tarotre2   tarotre2         4419 Sep  3  2019 default.less
+-rw-r--r--    1 tarotre2   tarotre2          817 Sep  3  2019 default.time.less
+-rw-r--r--    1 tarotre2   tarotre2          610 Sep  3  2019 rtl.less

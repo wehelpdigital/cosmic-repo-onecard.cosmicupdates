@@ -1,0 +1,16 @@
+drwxr-xr-x   14 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x    6 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2          123 Sep  3  2019 .htaccess
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 cache
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 config
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 controllers
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 core
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 helpers
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 hooks
+-rw-r--r--    1 tarotre2   tarotre2          131 Sep  3  2019 index.html
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 language
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 libraries
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 logs
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 models
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 third_party
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep 20  2019 views

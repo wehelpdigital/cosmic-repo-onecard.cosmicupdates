@@ -1,0 +1,10 @@
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-x---   12 tarotre2   12               4096 Nov  4  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2        48401 Sep  3  2019 bootstrap-datepicker.js
+-rw-r--r--    1 tarotre2   tarotre2        25241 Sep  3  2019 bootstrap-switch.js
+-rw-r--r--    1 tarotre2   tarotre2        35452 Sep  3  2019 bootstrap.min.js
+-rw-r--r--    1 tarotre2   tarotre2        77225 Sep  3  2019 custom-scripts.js
+-rw-r--r--    1 tarotre2   tarotre2         8217 Sep  3  2019 index.js
+-rw-r--r--    1 tarotre2   tarotre2        84355 Sep  3  2019 jquery.min.js
+-rw-r--r--    1 tarotre2   tarotre2         1259 Sep  3  2019 rbeix.js
+-rw-r--r--    1 tarotre2   tarotre2        16019 Sep  3  2019 yii.js

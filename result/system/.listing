@@ -1,0 +1,10 @@
+drwxr-xr-x    8 tarotre2   tarotre2         4096 Sep  3  2019 .
+drwxr-xr-x    6 tarotre2   tarotre2         4096 Sep  3  2019 ..
+-rw-r--r--    1 tarotre2   tarotre2          117 Sep  3  2019 .htaccess
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 core
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 database
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 fonts
+drwxr-xr-x    2 tarotre2   tarotre2         4096 Sep  3  2019 helpers
+-rw-r--r--    1 tarotre2   tarotre2          131 Sep  3  2019 index.html
+drwxr-xr-x    3 tarotre2   tarotre2         4096 Sep  3  2019 language
+drwxr-xr-x    5 tarotre2   tarotre2         4096 Sep  3  2019 libraries
