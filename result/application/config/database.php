@@ -160,11 +160,11 @@ $db['default'] = array(
 
 	'hostname' => 'localhost',
 
-	'username' => 'nbd0045_supergero',
+	'username' => 'braintru_supergero',
 
 	'password' => 'E+g%ymG%bX^.',
 
-	'database' => 'nbd0045_cosmicup_onecarddaily',
+	'database' => 'braintru_onecard_ryl',
 
 	'dbdriver' => 'mysqli',
 
