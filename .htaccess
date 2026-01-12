@@ -1,21 +1,8 @@
-RewriteEngine On
-
-# HTTPS redirect - DISABLED until SSL is renewed
-# RewriteCond %{HTTPS} off
-# RewriteCond %{REQUEST_URI} !^/\.well-known/
-# RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
-
-# Ensure index.php loads first
 DirectoryIndex index.php index.html
 
-# Use custom error page to avoid SSI errors
-ErrorDocument 500 "Internal Server Error"
-ErrorDocument 404 "Page Not Found"
-ErrorDocument 403 "Forbidden"
-
 # php -- BEGIN cPanel-generated handler, do not edit
-# Set the "ea-php83" package as the default "PHP" programming language.
+# Set the “ea-php82” package as the default “PHP” programming language.
 <IfModule mime_module>
-  AddHandler application/x-httpd-ea-php83 .php .php8 .phtml
+  AddHandler application/x-httpd-ea-php82 .php .php8 .phtml
 </IfModule>
 # php -- END cPanel-generated handler, do not edit
